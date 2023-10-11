@@ -20,5 +20,6 @@ namespace TestscriptDIPS_1
 			engine.GenerateInformation("Hello Mumbai World!");
 			engine.GenerateInformation("welcome #dmempowermumbai")
 		    engine.GenerateInformation("Dish Tv India Ltd")
+			engine.GenerateInformation("Hotel sahara star Datamine seminar Empower")
 	}
 }
